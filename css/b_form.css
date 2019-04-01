@@ -1,0 +1,9 @@
+.a1{
+	transition: all 2s;
+}
+.a1:focus{
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom-color: #fc3c3c; 
+}
