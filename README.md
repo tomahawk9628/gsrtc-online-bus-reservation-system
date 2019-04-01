@@ -1,4 +1,4 @@
-# gsrtc-online-bus-reservation-system
+#GSRTC Online Bus Reservation System
 Online Bus Reservation System for GSRTC
 Developed by Chudasama Satyajeet and Issac Dennis
 
